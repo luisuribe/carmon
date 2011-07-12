@@ -1,0 +1,19 @@
+Carmon
+====
+_A small and personal app for mechanical workshops. Track the cars you have repaired_
+
+Prerequisites
+-------------
+
+CakePHP 1.3.10
+
+TODO
+----
+
+* Email notifications.
+* Attachments.
+* Invoices.
+* Spare parts.
+* Caching (Do we need that?).
+* Tests.
+* Improve documentation.
